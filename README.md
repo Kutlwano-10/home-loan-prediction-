@@ -14,3 +14,4 @@ XGBClassifier model gives : 78% prediction accuracy
 Boosted Decision Trees model gives : 79% prediction accuracy
 
 Deep Neural Networks model gives : 77% prediction accuracy
+Acknowledgements: I thank Phodiso Maroeshe (https://github.com/phodiso-7?tab=repositories) for his insightful discussions and his contribution in optimising our models.
